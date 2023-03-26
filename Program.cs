@@ -12,7 +12,7 @@
             Console.WriteLine("İşlem Seçiniz (+) (-) (*) (/) (%): ");
             string islem = Console.ReadLine();
 
-            Console.WriteLine("İkinci Sayıyı  Giriniz: ");
+            Console.WriteLine("İkinci Sayıyı Giriniz: ");
             double sayi2 = double.Parse(Console.ReadLine());
 
             double sonuc = 0;
